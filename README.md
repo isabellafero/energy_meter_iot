@@ -17,10 +17,20 @@ the alternating energy grid.
 
 #### Components
 
-*1x ESP32
-*1x ACS712-05B
-*1x 4n25
-*4x 1n4007
-*1x 390k ohm
-*1x 15k ohm
-*1x 1nF
+* 1x ESP32
+* 1x ACS712-05B
+* 1x 4n25
+* 4x 1n4007
+* 1x 390k ohm
+* 1x 15k ohm
+* 1x 1nF
+
+#### Voltage Circuit
+
+![](/img/voltage_circuit.PNG)
+
+#### Calibration curve
+
+![](/img/voltage_calibration.PNG)
+
+![](/img/current_calibration.PNG)
